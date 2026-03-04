@@ -58,4 +58,4 @@ print(numbers)
 
 backup_numbers: list[float] = numbers.copy()
 print(backup_numbers)
-print(sys.getsizeof(backup_numbers))
+print(sys.getsizeof(backup_numbers))      
