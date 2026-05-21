@@ -1,0 +1,8 @@
+uts-data-structure-kelas-b-ummisyahriah/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.vscode/
